@@ -6,7 +6,7 @@
 
 <title>CLUB :: HOME</title>
 
-<?php include("SetUp.php");?>
+<?php include("SetUp.php");//Hello World?>
 
 </head>
 <body>
